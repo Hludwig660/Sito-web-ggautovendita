@@ -20,4 +20,4 @@ Il progetto è stato realizzato utilizzando le seguenti tecnologie:
 - **Scripting:** JavaScript (per filtri e gallerie immagini)
 - **Hosting:** Altervista
 
-Hludwig660  email: luigiiorio764@gmail.com
+
